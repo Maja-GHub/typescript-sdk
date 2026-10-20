@@ -35,7 +35,7 @@
         "@modelcontextprotocol/core": "workspace:^",
         "@modelcontextprotocol/server": "workspace:^",
         "@modelcontextprotocol/express": "workspace:^",
-        "better-auth": "^1.4.17",
+        "better-auth": "^1.6.22",
         "better-sqlite3": "^12.6.2",
         "cors": "catalog:runtimeServerOnly",
         "express": "catalog:runtimeServerOnly"
